@@ -38,7 +38,11 @@ Copy
 Edit
 java SnakeGame
 Future Improvements
+
 ✨ Start/restart menu
+
 ✨ Difficulty levels (speed variations)
+
 ✨ Sound effects & improved graphics
+
 ✨ High-score saving
